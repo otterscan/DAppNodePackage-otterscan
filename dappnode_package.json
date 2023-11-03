@@ -1,9 +1,9 @@
 {
   "name": "otterscan.public.dappnode.eth",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "shortDescription": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
   "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
-  "upstreamVersion": "v1.32.0",
+  "upstreamVersion": "v2.1.0",
   "upstreamRepo": "otterscan/otterscan",
   "upstreamArg": "UPSTREAM_VERSION",
   "type": "service",
@@ -31,7 +31,6 @@
     }
   ],
   "mainService": "otterscan",
-  
   "license": "GLP-3.0",
   "repository": {
     "type": "git",
