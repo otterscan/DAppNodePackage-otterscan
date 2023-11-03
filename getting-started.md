@@ -1,5 +1,7 @@
 ## Otterscan, a An open-source, fast, local, laptop-friendly Ethereum block explorer.
- 
+
+*Note: Even though this package contains the latest version of Otterscan, it doesn't include the new OTS2 API enabling some of the newest features.*
+*This package relies on the Erigon package maintained by dappnode, which doesn't include the OTS2 API yet.*
  
 ### Erigon settings
 When running erigon, make sure to enable the erigon, ots, eth APIs in addition to whatever cli options you are using to start erigon. It should at least look like this `--http.api "eth,erigon,ots,<your-other-apis>"`

@@ -22,5 +22,11 @@
     "uploadedTo": {
       "dappnode": "Mon, 28 Aug 2023 10:49:24 GMT"
     }
+  },
+  "0.2.3": {
+    "hash": "/ipfs/QmWDux1EGMiwY73bjvk8n7toEraA2qSH8w6BdHqUiCqWtr",
+    "uploadedTo": {
+      "dappnode": "Fri, 03 Nov 2023 01:43:03 GMT"
+    }
   }
 }
