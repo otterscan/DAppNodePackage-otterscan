@@ -4,7 +4,7 @@ services:
     build:
       context: .
       args:
-        - UPSTREAM_VERSION:v2.5.0
+        UPSTREAM_VERSION: v2.5.0
     environment:
       ERIGON_URL: "http://erigon.dappnode:8545"
       BEACON_API_URL: ""
