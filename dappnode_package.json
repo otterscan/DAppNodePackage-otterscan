@@ -1,6 +1,6 @@
 {
   "name": "otterscan.public.dappnode.eth",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "shortDescription": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
   "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
   "upstreamVersion": "v2.8.0",
@@ -8,7 +8,7 @@
   "upstreamArg": "UPSTREAM_VERSION",
   "type": "service",
   "dependencies": {
-    "erigon.dnp.dappnode.eth": "^0.1.44"
+    "erigon.dnp.dappnode.eth": ">=0.1.44 <0.2.0 || >=1.0.0"
   },
   "categories": ["Developer tools"],
   "architectures": ["linux/amd64"],
